@@ -1,0 +1,132 @@
+html, body, .container {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+
+.image {
+	width: 75%;
+	background-color: #228b22;
+}
+
+.striped {
+	border: 15px solid black;
+}
+
+.cinemagraph{
+	width: 100%;
+	height: 390px
+}
+
+body{
+	background-color:white;
+	background-image:
+	radial-gradient(midnightblue 9px, transparent 10px),        
+	repeating-radial-gradient(midnightblue 0, midnightblue 4px, transparent 5px, transparent 20px, midnightblue 21px, midnightblue 25px, transparent 26px, transparent 50px);    
+	background-size: 30px 30px, 90px 90px; 
+	background-position: 0 0;
+	font-family: 'Gochi Hand', cursive;
+	color: yellow  
+}
+.title{
+	background-color: #228b22; 
+}
+.aboutme{
+	background-color: #228b22;
+}
+.moreinfo{
+	background-color: #228b22; 
+}
+.striped{
+		background-color: #228b22;
+		height: 500px;
+}
+.bill{
+	font-size: 1000px; 
+	background-color: #8C2C93;
+	border: 15px solid blue;
+
+}
+.pet{
+	font-size: 88px
+}
+.arma{
+	border: 15px solid black;
+	background-color: #D84F23;
+	height: 300px;
+	text-align: center;
+}
+.jes{
+	height: 250px
+}
+.jumbotron{
+	background-image: url(../img/Eur.jpg);
+	background-size: 100%;
+	background-position-y: center;
+}	
+
+.europe {
+	padding-bottom: 0;
+	margin-bottom: 0;
+	height: 200px
+}
+
+.jumbotron p {
+	margin-bottom: 0;
+}
+
+.wat {
+	height: 450px;
+}
+.middle{
+	position:relative;
+
+}
+.list{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%)
+}
+.port{
+	height: 300px;
+	border: 10px solid green; 
+}
+.port{
+	height: 300px;
+	border: 15px solid green; 
+}
+.lon{
+	height: 100%;
+	border: 15px solid green;
+}
+.jesus{
+	background-color: #219AC1;
+	border: 15px solid green;
+}
+.navbar{
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-logo {
+	max-height:100%;
+}
+.jumbotron3{
+			background-image: url(../img/boro.jpg); 
+			background-size: 100%;
+			color: white;
+			height: 100%;
+		}
+.center{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	translate: transform(-50%,-50%);
+
+}
+.cover{
+	font-size: 50px;
+	color: #25BBEC;
+}
